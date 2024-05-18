@@ -1,0 +1,244 @@
+{
+    "cities" : [
+        {
+            "name" : "Paris",
+            "population" : 10755000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Mexico City",
+            "population" : 19463000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Miami",
+            "population" : 5582000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Ho Chi Minh City",
+            "population" : 8314000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Atlanta",
+            "population" : 4715000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Karachi",
+            "population" : 20711000,
+            "color" : "Black"
+        },
+        {
+            "name" : "Tehran",
+            "population" : 7419000,
+            "color" : "Black"
+        },
+        {
+            "name" : "Johannesburg",
+            "population" : 3888000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Milan",
+            "population" : 5232000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Shanghai",
+            "population" : 13482000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Lagos",
+            "population" : 11547000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Sao Paulo",
+            "population" : 2018600,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Cairo",
+            "population" : 14718000,
+            "color" : "Black"
+        },
+        {
+            "name" : "San Francisco",
+            "population" : 5864000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Chicago",
+            "population" : 9121000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Hong Kong",
+            "population" : 7106000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Essen",
+            "population" : 575000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Mumbai",
+            "population" : 16910000,
+            "color" : "Black"
+        },
+        {
+            "name" : "Santiago",
+            "population" : 6015000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "London",
+            "population" : 8586000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Osaka",
+            "population" : 2871000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Bangkok",
+            "population" : 7151000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Seoul",
+            "population" : 22547000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Moscow",
+            "population" : 15512000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Baghdad",
+            "population" : 6204000,
+            "color" : "Black"
+        },
+        {
+            "name" : "Kinshasa",
+            "population" : 9046000,
+            "color" : "Yellow"        
+        },
+        {
+            "name" : "Lima",
+            "population" : 9121000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Kolkata",
+            "population" : 14374000,
+            "color" : "Black"
+        },
+        {
+            "name" : "St. Petersburg",
+            "population" : 4879000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Bogota",
+            "population" : 8702000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Madrid",
+            "population" : 5427000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Buenos Aires",
+            "population" : 13639000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Los Angeles",
+            "population" : 14900000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Istanbul",
+            "population" : 13576000,
+            "color" : "Black"
+        },
+        {
+            "name" : "Jakarta",
+            "population" : 26063000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Chennai",
+            "population" : 8865000,
+            "color" : "Black"
+        },
+        {
+            "name" : "Taipei",
+            "population" : 8338000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Sydney",
+            "population" : 3785000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Khartoum",
+            "population" : 4887000,
+            "color" : "Yellow"
+        },
+        {
+            "name" : "Montreal",
+            "population" : 3429000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Algiers",
+            "population" : 2946000,
+            "color" : "Black"
+        },
+        {
+            "name" : "Washington",
+            "population" : 4679000,
+            "color" : "Blue"
+        },
+        {
+            "name" : "Beijing",
+            "population" : 17311000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Tokyo",
+            "population" : 13189000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Manila",
+            "population" : 20767000,
+            "color" : "Red"
+        },
+        {
+            "name" : "Riyadh",
+            "population" : 5037000,
+            "color" : "Black"
+        },
+        {
+            "name" : "Delhi",
+            "population" : 22242000,
+            "color" : "Black"
+        },
+        {
+            "name" : "New York",
+            "population" : 20464000,
+            "color" : "Blue"
+        }
+    ]
+}
